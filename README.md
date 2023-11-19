@@ -1,4 +1,5 @@
-No longer maintained. I no longer have GPU to run language models, someone else should fork and continue development.
+Private fork for maintainance. Feel free to use it but don't expect all to be smooth.
+
 # web_search
  Web search extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
